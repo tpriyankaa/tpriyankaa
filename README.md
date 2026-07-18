@@ -23,6 +23,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=tpriyankaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tpriyankaa&theme=react-dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )->
