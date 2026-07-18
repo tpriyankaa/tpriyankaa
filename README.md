@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Story Nest, a web platform for readers and writers to share books.<br>🌱 I’m currently learning the absolute basics of web development.<br>🤝 I'm looking for help with Frontend/backend best practices as a beginner.<br>⚡ Fun fact<br> I read more books than lines of code I've written (for now 😄)
+🔭 I’m currently working on Story Nest, a web platform for readers and writers to share books.<br>🌱 I’m currently learning the absolute basics of web development.<br>🤝 I'm looking for help with Frontend/backend best practices as a beginner.<br>⚡ Fun fact: I read more books than lines of code I've written (for now 😄)
 
 
 ## 🌐 Socials:
